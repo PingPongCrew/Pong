@@ -1,4 +1,4 @@
-package de.pingpongcrew.logic;
+package de.pingpongcrew.main;
 
 public interface MovingObjectI {
 
